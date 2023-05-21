@@ -1,2 +1,2 @@
 # Sedra
-Website for sweets company to represent her   
+Website for a sweets company to display its services
